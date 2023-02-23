@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Clockv3
+
+Name: ./Clockv3.class
